@@ -2,6 +2,8 @@
 
 Un jeu de logique Binairo (également connu sous le nom de Takuzu ou Binero) implémenté en Java avec plusieurs algorithmes de satisfaction de contraintes pour la résolution automatique.
 
+<img src="https://github.com/user-attachments/assets/25bc91c9-b952-4428-9a7d-a910e814a871" alt="Image" width="200" />
+
 ## 📋 Description
 
 Le Binairo est un puzzle de logique binaire où l'objectif est de remplir une grille avec des 0 et des 1 en respectant trois règles strictes. Ce projet implémente le jeu avec deux interfaces (terminal et graphique) et propose plusieurs algorithmes de résolution automatique basés sur la satisfaction de contraintes.
@@ -179,6 +181,14 @@ Le fichier `binairo_save.txt` utilise le format suivant :
 ## 👨‍💻 Auteur
 
 Projet développé dans le cadre de l'étude des algorithmes de satisfaction de contraintes.
+
+ **Essalhi Salma** <br> <img src="https://github.com/user-attachments/assets/64bceb56-46d7-451c-9890-138e6b59dab3"  width="100" height="100" style="object-fit:cover; border-radius:50%"> 
+
+ **Mohand Omar Moussa** <br> <img src="https://github.com/user-attachments/assets/6074dd2e-61c1-497d-a48f-f4bb14baf126"  width="100" height="100" style="object-fit:cover; border-radius:50%">  
+
+ **El Azzouzi Achraf** <br> <img src="https://github.com/user-attachments/assets/31caa747-3089-4920-b622-476a3db13c32"  width="100" height="100" style="object-fit:cover; border-radius:50%">
+
+
 
 ## 📄 Licence
 
